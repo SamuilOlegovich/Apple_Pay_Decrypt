@@ -13,6 +13,8 @@ https://javadev.ru/https/ssl-keystore-java/
 
 
 Пример входящих данных - можно использовать для отладки создав из них входящую модель:
+
+
 dataApplePay = {
             "version":"EC_v1",
                 "data":"AK7UZehTHQRXYzgPCD5ijZfloc9ZfUjAutl+7v/83V7U6YjsWSrBVzILQlp2xLP4E4QXxRwadIh0Y9Vg6297BV2ljginDwoR5nneEIQP6fNCXYwll5hUYYlL0ZO7pD/8KXStAh8pnOAyFtEVrDqIRCWZbftzdsAi76qFMXd3Z2bRSjl5zrt8Qfua6Nu1b3MNNVlPQVMJsskEQFncnViNLDkRulgt5WezVF8N1m62nEqminLBF7m+36/pLi0t9JTfqQ0qNYahczAzyyCJhABkXRXXf9iF3YJ77gBD9mBFRVrePPNW0PnJyoQPvDikGzDTc4k5+NBBSEAJjBLlt94okHmh9eO2A9/xoUh7/ktI+Vjk2k+8PWDOAWIkVM4+7vPCrESYedVzTBd6BYIL7+oPmbAW5EJ1JC2twafmmVhL4lXwdz296aBtNDTIzV+of+Oc6JrEutzjVYm8qGdv4MO0DJ3eWG/r9G1QPaTR84CRXXxmoL/EAH9fLYGfQeJsGHmLKieX2b2IfHwTtTnFVloqwt0ywd47PnqLbZ+pETZgsUegZIUAPH6Hl3WMo2eXKbybyxuY70WV+OoIxKBGHQnPYndPA3aG7XeSiUXF/2vW/Qq+UVfxQc0O4X6A/qTYy5c1HlQVq7PloE2+jkGCtKpuvsuVnnRF7sxxG3Wke7Vlz6at/+CHdT0K91+a29U1E8JVwhjnXvT8E/FcvrwHaCMmK1eK8/sMFGQ=",
